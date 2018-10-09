@@ -1,0 +1,11 @@
+# null-box.github.io .ignore file
+
+.analysis
+.idea
+.DS_Store
+*.swp
+*~
+
+
+
+
