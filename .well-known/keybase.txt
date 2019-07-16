@@ -1,0 +1,58 @@
+==================================================================                                                                                                                    
+https://keybase.io/ipolyzos                                                                                                                                                           
+--------------------------------------------------------------------                                                                                                                  
+                                                                                                                                                                                      
+I hereby claim:                                                                                                                                                                       
+                                                                                                                                                                                      
+  * I am an admin of https://null-box.org                                                                                                                                             
+  * I am ipolyzos (https://keybase.io/ipolyzos) on keybase.                                                                                                                           
+  * I have a public key ASBLe42HuLmkRqNKB5cav7RFiPe5Dgm33ji_7BWMGupWOAo                                                                                                               
+                                                                                                                                                                                      
+To do so, I am signing this object:                                                                                                                                                   
+                                                                                                                                                                                      
+{                                                                                                                                                                                     
+  "body": {                                                                                                                                                                           
+    "key": {                                                                                                                                                                          
+      "eldest_kid": "01204b7b8d87b8b9a446a34a07971abfb44588f7b90e09b7de38bfec158c1aea56380a",                                                                                         
+      "host": "keybase.io",                                                                                                                                                           
+      "kid": "01204b7b8d87b8b9a446a34a07971abfb44588f7b90e09b7de38bfec158c1aea56380a",                                                                                                
+      "uid": "2ab2efbe7a050f41cab597a2b0742a19",                                                                                                                                      
+      "username": "ipolyzos"                                                                                                                                                          
+    },
+    "merkle_root": {
+      "ctime": 1563270333,
+      "hash": "7ceb760624c33ff343daecbdeee247481350c695c5ed998b593d76822b1c57fe0146bc65fd8c38f602ba691634d3314aeb6c85d4727778bb1eaf1b90ac750b45",
+      "hash_meta": "96d9f5cfe8980051e2eec439628180a81d6c45fa9911f8a1636249957d131377",
+      "seqno": 5772642
+    },
+    "service": {
+      "entropy": "UvLlllIAfz3rOJ75yoXKE5pD",
+      "hostname": "null-box.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1563270354,
+  "expire_in": 504576000,
+  "prev": "e7c2bb2172a8347870c59d9d3968adea06b234342f43235bf420eaf3a3f23f3a",
+  "seqno": 55,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgS3uNh7i5pEajSgeXGr+0RYj3uQ4Jt944v+wVjBrqVjgKp3BheWxvYWTESpcCN8Qg58K7IXKoNHhwxZ2dOWit6gayNDQvQyNb9CDq86PyPzrEIFvlOHJU8bxJ/LN52WAdGIVh9r
+LoOZ5D6SHqxxFeu1Z2AgHCo3NpZ8RAoKoRZnMnBGAedJC2chbQravPMDCV0mTOLBxOW6xYUwt83+ZvnSUvVWaX0U91la4sF67W2yumKtBMYy+KdDjGD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGX/5Pj0FpzP4fv7uBho7PoXDg5t
+H9x5R4RwQnW/MxP0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ipolyzos
+
+==================================================================
